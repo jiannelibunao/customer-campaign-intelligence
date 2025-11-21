@@ -70,3 +70,6 @@ Based on the uncovered insights, the following recommendations have been provide
 - Leverage popular products in drafting campaigns to attract new customers and retain loyal customers.
 - Promote product bundling with the most popular item
 - Imitate last campaign’s strategies and apply to first campaigns, thus ensuring immediate customer engagement while minimizing marketing costs.
+
+## Let's Connect
+![LinkedIn](https://www.linkedin.com/in/jiannelibunao/)  |  Digital Portfolio
