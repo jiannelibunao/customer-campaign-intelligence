@@ -90,5 +90,5 @@ Based on the uncovered insights, the following recommendations have been provide
     - Despite strong revenue growth (93.6%), average customer value dropped by 19.4%. This signals a need to balance acquisition with retention and increase order value through bundling, tiered pricing, or exclusive offers.
 
 
-## Let's Connect
+## Let's Connect 🔗
 [LinkedIn](https://www.linkedin.com/in/jiannelibunao/ "LinkedIn")  |  Digital Portfolio
